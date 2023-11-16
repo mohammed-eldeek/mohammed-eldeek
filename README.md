@@ -1,6 +1,6 @@
 <!-- banner -->
 <p align="center">
-  <img src="https://github.com/mohammed-eldeek/repository/mohammed-eldeek/Banner.png">
+  <img src="https://github.com/mohammed-eldeek/mohammed-eldeek/blob/main/Banner.png">
 </p>
 <!-- GitHub followers and Profile views -->
 <p align="center">
